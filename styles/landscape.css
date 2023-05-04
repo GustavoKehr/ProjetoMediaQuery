@@ -3,8 +3,6 @@
 /* Configuracao dispositivo deitado */
 
 body {
-    background-image: url(/imagens/cev-landscape.jpg);
-    background-repeat: no-repeat;
+    background-image: url(../imagens/cev-landscape.jpg);
     background-position: left bottom;
-    background-size: cover;
 }
