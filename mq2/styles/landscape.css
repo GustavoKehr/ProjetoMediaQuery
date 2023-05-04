@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+/* Configuracao dispositivo deitado */
+
+body {
+    background-image: url(/mq2/imagens/cev-landscape.jpg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: cover;
+}
